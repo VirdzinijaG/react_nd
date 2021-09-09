@@ -3,7 +3,7 @@
     flex-direction: row;
     margin: 20px;
     width: 300px;
-    height: 100px;
+    height: 200px;
     position: relative;
     img {
         width: 100%;
@@ -19,6 +19,6 @@
         justify-content: flex-start;
         width: 100%;
         height: auto;
-        transform: translate(20%, 350%);
+        transform: translate(20%, 800%);
     }
 }
